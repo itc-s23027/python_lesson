@@ -1,2 +1,2 @@
-result = 14 // 3
+result = 11 % 2
 print(result)
